@@ -1,0 +1,88 @@
+{
+  "status": 0,
+  "message": "query ok",
+  "request_id": "3cde6be2-4b3a-11ec-94fa-7cd30a6b6761",
+  "result": {
+    "location": {
+      "lat": 23.21247, "lng": 112.86226
+    },
+    "address": "广东省佛山市三水区大学路",
+    "formatted_addresses": {
+      "recommend": "三水区丽日天鹅湖西区(大学路北)",
+      "rough": "三水区丽日天鹅湖西区(大学路北)"
+    },
+    "address_component": {
+      "nation": "中国",
+      "province": "广东省",
+      "city": "佛山市",
+      "district": "三水区",
+      "street": "大学路",
+      "street_number": "大学路"
+    },
+    "ad_info": {
+      "nation_code": "156",
+      "adcode": "440607",
+      "city_code": "156440600",
+      "name": "中国,广东省,佛山市,三水区",
+      "location": {
+        "lat": 23.034889, "lng": 112.875
+      },
+      "nation": "中国",
+      "province": "广东省",
+      "city": "佛山市",
+      "district": "三水区"
+    },
+    "address_reference": {
+      "street_number": {
+        "id": "",
+        "title": "",
+        "location": {
+          "lat": 23.21213,
+          "lng": 112.862099
+        },
+        "_distance": 30.2,
+        "_dir_desc": "北"
+      },
+      "crossroad": {
+        "id": "1127285",
+        "title": "学海中路/大学路(路口)",
+        "location": {
+          "lat": 23.212009,
+          "lng": 112.86042
+        },
+        "_distance": 189.4,
+        "_dir_desc": "东"
+      },
+      "town": {
+        "id": "440607004",
+        "title": "云东海街道",
+        "location": {
+          "lat": 23.238256,
+          "lng": 112.84713
+        },
+        "_distance": 0,
+        "_dir_desc": "内"
+      },
+      "street": {
+        "id": "16698395065886680126",
+        "title": "大学路",
+        "location": {
+          "lat": 23.21213,
+          "lng": 112.862099
+        },
+        "_distance": 30.2,
+        "_dir_desc": "北"
+      },
+      "landmark_l2": {
+        "id": "381630278696615064",
+        "title": "丽日天鹅湖西区",
+        "location": {
+          "lat": 23.216696,
+          "lng": 112.865639
+        },
+        "_distance": 0,
+        "_dir_desc": "内"
+      }
+    }
+  }
+}

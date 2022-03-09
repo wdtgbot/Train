@@ -1,0 +1,16 @@
+* [程序的分支结构](https://github.com/chiupam/Train/tree/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84)
+  * [单分支结构](https://github.com/chiupam/Train/blob/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E5%8D%95%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84.py)
+  * [二分支结构](https://github.com/chiupam/Train/blob/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E4%BA%8C%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84.py)
+  * [多分支结构](https://github.com/chiupam/Train/blob/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84.py)
+  * [条件判断及组合](https://github.com/chiupam/Train/blob/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E6%9D%A1%E4%BB%B6%E5%88%A4%E6%96%AD%E5%8F%8A%E7%BB%84%E5%90%88.md)
+  * [程序的异常处理](https://github.com/chiupam/Train/blob/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%BC%82%E5%B8%B8%E5%A4%84%E7%90%86.py)
+  * [身体质量指数BMI](https://github.com/chiupam/Train/tree/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E8%BA%AB%E4%BD%93%E8%B4%A8%E9%87%8F%E6%8C%87%E6%95%B0BMI)
+    * [V1](https://github.com/chiupam/Train/blob/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E8%BA%AB%E4%BD%93%E8%B4%A8%E9%87%8F%E6%8C%87%E6%95%B0BMI/V1%E2%80%94%E2%80%94%E8%BA%AB%E4%BD%93%E8%B4%A8%E9%87%8F%E6%8C%87%E6%95%B0BMI.py)
+    * [V2](https://github.com/chiupam/Train/blob/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84/%E8%BA%AB%E4%BD%93%E8%B4%A8%E9%87%8F%E6%8C%87%E6%95%B0BMI/V2%E2%80%94%E2%80%94%E8%BA%AB%E4%BD%93%E8%B4%A8%E9%87%8F%E6%8C%87%E6%95%B0BMI.py)
+* [程序的循环结构](https://github.com/chiupam/Train/tree/master/%E5%B5%A9%E5%A4%A9python%E5%85%AC%E5%BC%80%E8%AF%BE/Week%204/%E7%A8%8B%E5%BA%8F%E7%9A%84%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84)
+  * 遍历循环
+    * for
+  * 无限循环
+    * while
+  * 循环控制保留字
+  * 循环的高级用法
