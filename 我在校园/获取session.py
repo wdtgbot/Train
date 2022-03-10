@@ -32,9 +32,8 @@ def jwsession(_u, _p, _s):
         response = requests.post(url, headers=headers)
         response_json = response.json()
         print(response_json)
-        # {'code': 0, 'data': [{'date': '2022-02-26', 'province': '广东省', 'city': '茂名市', 'street': '人民南路', 'leave': 1, 'district': '茂南区', 'qContent': '无下列情况,身体健康'}]}
         
     
 if __name__ == "__main__":
-    jwsession("", "", True)
+    jwsession("15283119690", "zkx1111swl.", True)
     
